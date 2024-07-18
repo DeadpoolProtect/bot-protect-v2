@@ -1,0 +1,101 @@
+**Légende:**
+
+* ✅ Fait: La commande est fonctionnelle et conforme aux attentes.
+* ⚠️ À revoir: La commande est fonctionnelle mais peut nécessiter des améliorations ou des ajustements.
+* ❌ Manquant: La commande n'est pas encore implémentée.
+
+**Commandes:**
+
+**Propriétaire:**
+
+* ✅ `setowner`
+* ✅ `unowner`
+* ✅ `clearowner`
+* ✅ `listowner`
+* ✅ `color_embed`
+* ✅ `wl`
+* ✅ `unwl`
+* ✅ `clearwl`
+* ✅ `list_wl`
+* ✅ `bl`
+* ✅ `unbl`
+* ✅ `clearbl`
+
+**Propriétaire du Bot:**
+
+* ❌ `serverlist` (Manquant)
+* ❌ `leaveserver` (Manquant)
+* ❌ `joinserver` (Manquant)
+
+**Modération:**
+
+* ✅ `massrole`
+* ✅ `giveaways`
+* ✅ `ban`
+* ✅ `unban`
+* ✅ `kick`
+* ✅ `clear`
+* ✅ `emoji`
+* ✅ `mute`
+* ✅ `warn`
+* ✅ `warnclear`
+* ✅ `warnlist`
+
+**Utilisateur:**
+
+* ✅ `userinfo`
+* ✅ `help`
+* ✅ `botinfo`
+* ✅ `serverinfo`
+* ✅ `ping`
+* ✅ `invitebot`
+* ✅ `avatar`
+
+**Jeux:**
+
+* ✅ `pendu`
+* ✅ `8ball`
+* ✅ `mixname`
+* ✅ `gay`
+* ✅ `hack`
+* ✅ `iq`
+
+**Configuration:**
+
+* ✅ `Antigoshtping`
+* ✅ `Antibot`
+* ✅ `Antijoins`
+* ✅ `Antilink`
+* ✅ `Goodbye`
+* ✅ `Welcome`
+* ✅ `Setup_logs`
+* ✅ `Antimassmention`
+* ✅ `Autorole`
+* ❌ `Invitelogger`(Manquant)
+* ❌ `Ticket` (Manquant)
+* ❌ `Antispam` (Manquant)
+
+**Vocal:**
+
+* ✅ `voctime_list` (⚠️ À revoir)
+* ✅ `voctime` (⚠️ À revoir)
+* ✅ `voctime_reset` (⚠️ À revoir)
+
+**Niveau:**
+
+* ✅ `level`
+* ✅ `level_add_xp`
+* ✅ `level_reset`
+* ✅ `level_setup`
+* ✅ `level_top`
+
+**Suggestions:**
+
+* **Commandes Personnalisées:**
+    * Explorez la possibilité de créer des commandes personnalisées pour répondre aux besoins spécifiques de votre serveur.
+* **Commandes Vocales:**
+    * Les commandes vocales futures (`play`, `stop`, etc.) semblent bien pensées.
+* **Effets Vocaux:**
+    * La liste des effets vocaux (`8d`, `bassboost`, etc.) est intéressante, mais il faut s'assurer de leur compatibilité et de leur qualité.
+
+Merci jmx et ats pour m'avoir aider au début ;)
